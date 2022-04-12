@@ -1,0 +1,31 @@
+.about-container{
+    margin-top: 85px;
+}
+.treatment img{
+    height: 450px;
+    margin-left: 42px;
+    width: 360px;
+}
+.about-content{
+    margin-top: 14px;
+}
+.about-content h1{
+    color: #3A4256;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.about-content p{
+    color: #56545F;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+.learn-btn{
+    padding: 10px 35px;
+    background-image: linear-gradient(to right, #19D3AF , #0FCFE8);
+    border-radius: 0px;
+    border: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 15px 0px;
+    color: white;
+}

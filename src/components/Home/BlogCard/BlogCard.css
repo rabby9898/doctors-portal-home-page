@@ -1,0 +1,42 @@
+.blog-container{
+    padding: 20px 20px;
+    height: 350px;
+}
+.blog-container:hover{
+    background-image: linear-gradient(to right, #19D3AF , #0FCFE8);
+    color: white;
+}
+.sign-btn{
+    background:transparent;
+    border:none;
+    font-size: 24px;
+}
+.sign-btn:hover{
+    display:block;
+}
+
+.blog-content h5{
+    margin-top: 45px;
+}
+.blog-content p{
+    font-size: 14px;
+    margin-top: 15px;
+    padding: 10px 10px;
+    color: #AFAEB1;
+}
+.blog-content p:hover{
+    color: white;
+}
+.blog-content img{
+    margin-bottom: -65px;
+}
+.semi-content{
+    text-align: center;
+    margin-left: -70px;
+}
+.semi-content h6{
+
+}
+.semi-content p{
+
+}

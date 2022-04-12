@@ -1,0 +1,15 @@
+.service-img{
+    text-align: center;
+}
+.services-content{
+    text-align: center;
+    margin: 27px 10px;
+}
+.services-content h5{
+    color: #4B5460;
+}
+.services-content p{
+    margin-top: 42px;
+    font-size: 15px;
+    color: #56545F;
+}

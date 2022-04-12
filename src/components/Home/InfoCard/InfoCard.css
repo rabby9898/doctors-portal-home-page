@@ -1,0 +1,21 @@
+.info-sec{
+    height: 126px;
+    margin-top: -70px
+}
+.info-primary{
+    background-color: #1CC7C1;
+    padding: 20px 10px;
+}
+.info-dark{
+    background-color: #3A4256;
+    padding: 20px 10px;
+}
+.info-icon{
+    font-size: 38px;
+    margin-top: 18px;
+    margin-left: 33px;
+    margin-bottom: 14px;
+}
+.info-content{
+    margin: 8px 22px;
+}

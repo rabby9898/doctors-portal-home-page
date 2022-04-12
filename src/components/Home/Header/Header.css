@@ -1,0 +1,17 @@
+.container {
+    height:700px;
+    position:relative;
+    background-image: url(../../../images/bg.png);
+    background-size: cover;
+}
+.container::after {
+    height:630px;
+    content:' ';
+    position: absolute;
+    top: 0;
+    width: 40%;
+    right: 0;
+    background-color: #3A4256;
+    z-index: -50;
+    margin-right: -120px;
+}
