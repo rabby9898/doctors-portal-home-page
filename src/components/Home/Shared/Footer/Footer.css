@@ -3,20 +3,16 @@
     margin-top: 100px;
 }
 .link ul{
-    display:block;
-    text-decoration: none!important;
     list-style-type: none;
 }
-.link ul li{
+.link ul li a{
     margin-left: -31px;
     text-decoration: none!important;
     font-size: 14px;
     color: #5B6476;
-    cursor: pointer;
 }
-.link ul li:hover{
+.link ul li a:hover{
     color: #3ED8E2;
-    text-decoration: none!important;
 }
 .footer-btn{
     padding: 10px 35px;
@@ -25,8 +21,13 @@
     border: 0px;
     font-size: 14px;
     font-weight: 600;
-    margin: 15px 0px;
+    margin: 51px 0px;
     color: white;
+}
+.footer-btn:hover{
+    border: 1px solid #10CFE1;
+    background: transparent;
+    color: #10CFE1;
 }
 .social{
     color: #10CFE5;

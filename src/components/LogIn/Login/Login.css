@@ -1,0 +1,31 @@
+
+.logIn-form{
+    margin-top: 150px;
+    width: 41%;
+}
+.logIn-form .Input{
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    margin-top: -3px;
+    color: black;
+}
+
+
+.signIn-btn{
+    padding: 11px 218px;
+    background-image: linear-gradient(to right, #19D3AF , #0FCFE8);
+    border-radius: 0px;
+    border: 0px;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 39px 0px;
+    text-align: center !important;
+    margin-left: 3px;
+    color: white;
+    text-transform: uppercase;
+}
+.loginImg img{
+    width: 100%;
+    margin-left: 50px;
+}

@@ -1,0 +1,20 @@
+.booking-form{
+    width: 530px;
+    border-radius: 32px;
+    margin-top: 25px;
+}
+.booking-form .Input{
+    margin: 10px 0px;
+    padding: 10px 23px;
+}
+.send-btn{
+    padding: 10px 35px;
+    background-image: linear-gradient(to right, #19D3AF , #0FCFE8);
+    border-radius: 0px;
+    border: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 15px 0px;
+    color: white;
+    margin-left: 423px;
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faTwitter, faGooglePlus } from "@fortawesome/free-brands-svg-icons"
+import { faFacebook, faTwitter, faGooglePlus } from "@fortawesome/free-brands-svg-icons";
 import './Footer.css';
 const Footer = () => {
     return (
@@ -9,35 +9,37 @@ const Footer = () => {
                 <div className="col-md-3 link">
                     <h4 style={{color:'#5BC5C5'}} >Links</h4>
                     <ul>
-                        <a href=""><li>Emergency of dental care</li></a>
-                        <a href=""><li>Check up</li></a>
-                        <a href=""><li>Personal disease treatment</li></a>
-                        <a href=""><li>Tooth extraction</li></a>
-                        <a href=""><li>Check up</li></a>
+                        <li><a href="">Emergency of dental care</a></li>
+                        <li><a href="">Check up</a></li>
+                        <li><a href="">Personal disease treatment</a></li>
+                        <li><a href="">Tooth extraction</a></li>
+                        <li><a href="">Check up</a></li>
                     </ul>
                 </div>
                 <div className="col-md-3 link">
                     <h4 style={{color:'#5BC5C5'}}>Services</h4>
                         <ul>
-                            <a href=""><li>Emergency of dental care</li></a>
-                            <a href=""><li>Check up</li></a>
-                            <a href=""><li>Personal disease treatment</li></a>
-                            <a href=""><li>Tooth extraction</li></a>
-                            <a href=""><li>Tooth extraction</li></a>
-                            <a href=""><li>Check up</li></a>
+                            <li><a href="">Emergency of dental care</a></li>
+                            <li><a href="">Check up</a></li>
+                            <li><a href="">Personal disease treatment</a></li>
+                            <li><a href="">Tooth extraction</a></li>
+                            <li><a href="">Check up</a></li>
+                            <li><a href="">Tooth extraction</a></li>
+                            <li><a href="">Check up</a></li>
                         </ul>
                 </div>
                 <div className="col-md-3 link">
                     <h4 style={{color:'#5BC5C5'}}>Oral Health</h4>
                         <ul>
-                            <a href=""><li>Emergency of dental care</li></a>
-                            <a href=""><li>Check up</li></a>
-                            <a href=""><li>Personal disease treatment</li></a>
-                            <a href=""><li>Tooth extraction</li></a>
-                            <a href=""><li>Check up</li></a>
-                            <a href=""><li>Tooth extraction</li></a>
-                            <a href=""><li>Check up</li></a>
-                        </ul>
+                            <li><a href="">Emergency of dental care</a></li>
+                            <li><a href="">Check up</a></li>
+                            <li><a href="">Personal disease treatment</a></li>
+                            <li><a href="">Tooth extraction</a></li>
+                            <li><a href="">Check up</a></li>
+                            <li><a href="">Personal disease treatment</a></li>
+                            <li><a href="">Tooth extraction</a></li>
+                            <li><a href="">Check up</a></li>
+                        </ul>   
                 </div>
                 <div className="col-md-3">
                     <h4 style={{color:'#5BC5C5'}}>Our Address</h4>
@@ -48,7 +50,7 @@ const Footer = () => {
                          <FontAwesomeIcon className="icon" icon={faGooglePlus} />
                       </div>
                    <div>
-                   <div style={{marginTop:'65px'}}>
+                   <div style={{marginTop:'94px',marginBottom:'-18px'}}>
                         <small>Call Now</small>
                    </div>
                     <div>
@@ -59,7 +61,6 @@ const Footer = () => {
 
             </div>
             <p style={{textAlign:'center', marginTop: '91px', marginLeft: '-107px',fontSize: '14px'}}>Copyright 2022 all right reserved</p>
-    
         </footer>
     );
 };

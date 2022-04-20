@@ -1,0 +1,14 @@
+.appoint-btn{
+    padding: 10px 50px;
+    background-image: linear-gradient(to right, #19D3AF , #0FCFE8);
+    border-radius: 0px;
+    border: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 15px 0px;
+    color: white;
+}
+.book-content{
+    text-align: center;
+    margin-bottom: 60px;
+}
